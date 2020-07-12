@@ -11,5 +11,5 @@ test_task fileBMP source_videofile_YUV420 output_videofile_YUV420 width_video he
 ```
 Example
 ```
-tech_task test.bmp akiyo_cif.yuv outputFile.yuv 352 288
+test_task test.bmp akiyo_cif.yuv outputFile.yuv 352 288
 ```
